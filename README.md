@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/harshit bhainsora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit bhainsora" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/harshit-bhainsora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/harshit-bhainsora" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit_bhainsora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_bhainsora" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshit bhainsora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit bhainsora" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bharshit468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit bhainsora" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharshit468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharshit468" height="30" width="40" /></a>
 </p>
 
