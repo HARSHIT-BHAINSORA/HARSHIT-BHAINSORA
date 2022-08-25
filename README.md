@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhainsora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **PATH VISUALIZER**
+- 🔭 I’m currently working on **Blog App**
 
 - 🌱 I’m currently learning **Reactjs , Server side languages**
 
