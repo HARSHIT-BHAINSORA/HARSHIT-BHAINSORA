@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhainsora</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A student, who wants to be a developer.</h3>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m pursing  **B.Tech CSE**
 
 - 🌱 I’m currently learning **Reactjs , Server side languages**
 
-- 👯 I’m looking to collaborate on **Front-end projects**
-
-- 🤝 I’m looking for help with **Web related Projects**
-
-- 💬 Ask me about **react, C ,C++ , Stl**
-
 - 📫 How to reach me **www.linkedin.com/in/harshit-bhainsora**
-
-- ⚡ Fun fact **love to cook food 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
