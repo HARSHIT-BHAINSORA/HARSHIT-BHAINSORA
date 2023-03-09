@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Bhainsora</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+!+👋;I+am+Harshit+Bhainsora;Nice+to+meet+you+!!!&center=true)](https://git.io/typing-svg)
 <h3 align="center">A student, who wants to be a developer.</h3>
 
 - 🔭 I’m pursing  **B.Tech CSE**
