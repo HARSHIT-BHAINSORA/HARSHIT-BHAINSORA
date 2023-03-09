@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+!+👋;I+am+Harshit+Bhainsora;Nice+to+meet+you+!!!&center=true&size=24&weight=500&width=1000&duration=5000&pause=1000)](https://git.io/typing-svg)
-<h3 align="center">A student, who wants to be a developer.</h3>
+<!-- <h3 align="center">A student, who wants to be a developer.</h3> -->
 
 - 🔭 I’m pursing  **B.Tech CSE**
 
