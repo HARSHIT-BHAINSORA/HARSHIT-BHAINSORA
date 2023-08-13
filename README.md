@@ -15,8 +15,8 @@
 <a href="https://instagram.com/harshit_bhainsora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_bhainsora" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bharshit468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit bhainsora" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharshit468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharshit468" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0b6jwd4zgljy8temmnhbbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0b6jwd4zgljy8temmnhbbg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/bharshit468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bharshit468/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0B6Jwd4ZgljY8TEMMNhbBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0b6jwd4zgljy8temmnhbbg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bharshit468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bharshit468/" height="30" width="40" /></a>
 </p>
 
 
